@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="39458" started-at="2020-08-17T05:31:33Z" finished-at="2020-08-17T05:32:13Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="39458" started-at="2020-08-17T05:31:33Z" finished-at="2020-08-17T05:32:13Z">
+      <class name="pac1.Jenkins_2">
+        <test-method status="PASS" signature="magicBricks()[pri:0, instance:pac1.Jenkins_2@8bd1b6a]" name="magicBricks" duration-ms="25514" started-at="2020-08-17T05:31:34Z" finished-at="2020-08-17T05:31:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- magicBricks -->
+      </class> <!-- pac1.Jenkins_2 -->
+      <class name="pac1.Jenkins_1">
+        <test-method status="PASS" signature="amazonHome()[pri:0, instance:pac1.Jenkins_1@18be83e4]" name="amazonHome" duration-ms="13859" started-at="2020-08-17T05:31:59Z" finished-at="2020-08-17T05:32:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amazonHome -->
+      </class> <!-- pac1.Jenkins_1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
