@@ -9,7 +9,7 @@ public class Jenkins_1
 	@Test
 	public void amazonHome() 
 	{
-		System.setProperty("webdriver.chrome.driver", "../Batch2/DriverExe/chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "../Batch2/Chrome/chromedriver.exe");
 		
 		WebDriver driver = new ChromeDriver();
 		

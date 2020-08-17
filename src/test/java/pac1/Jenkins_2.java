@@ -10,7 +10,7 @@ public class Jenkins_2
 	@Test
 	public void magicBricks() 
 	{
-		System.setProperty("webdriver.chrome.driver", "../Batch2/DriverExe/chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "../Batch2/Chrome/chromedriver.exe");
 		
 		WebDriver driver = new ChromeDriver();
 		
